@@ -32,8 +32,6 @@ Press Ctrl+C to exit.
 
 •Real-time system monitoring
 
-•Colorful display
-
 •Process sorting by CPU usage
 
 •Disk and network I/O monitoring
