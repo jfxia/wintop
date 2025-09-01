@@ -44,8 +44,6 @@ Press Ctrl+C to exit.
 
 •Python 3.13+
 
-•Windows OS
-
 •psutil package
 
 ```
