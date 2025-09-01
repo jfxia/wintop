@@ -12,6 +12,8 @@ A top-like utility for Windows that displays system resource usage including:
 
 - Process statistics
 
+![screenshot](/assets/screenshot.png)
+
 ## Installation
 
 ```bash
