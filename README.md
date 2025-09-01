@@ -48,6 +48,10 @@ Press Ctrl+C to exit.
 
 •psutil package
 
+```
+pip install psutil
+```
+
 ## License
 
 MIT
