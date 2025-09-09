@@ -201,7 +201,7 @@ class WinTop:
         self.screen_buffer.clear()
 
     def restore_screen(self):
-        sys.stdout.write(self.CURSOR_SHOW + self.move_cursor(30, 1))
+        sys.stdout.write(self.CURSOR_SHOW + self.move_cursor(50, 1) + "\n")
         sys.stdout.flush()
 
     def run(self):
@@ -240,4 +240,5 @@ def main():
     WinTop(update_interval=1.0, process_limit=20).run()
 
 if __name__ == "__main__":
+
     main()
